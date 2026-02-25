@@ -3,7 +3,7 @@ Ethical Hacking &amp; Penetration Testing — HTB Walkthroughs, OSINT, Path Trav
 # 🔐 Ethical Hacking & Penetration Testing
 
 **Touro University — Graduate School of Technology**  
-**Student:** Md Azizul Rahaman | Fall 2025  
+**Student:** Md Azizul Rahaman   
 **Tools:** Kali Linux, Metasploit, Burp Suite, Nmap, OSINT tools
 
 ---
